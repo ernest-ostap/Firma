@@ -3,3 +3,13 @@ E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.GeneratedMSBu
 E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.AssemblyInfoInputs.cache
 E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.AssemblyInfo.cs
 E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.csproj.CoreCompileInputs.cache
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.sourcelink.json
+E:\programowanie\PIAB\Firma\Firma.Data\bin\Debug\net8.0\Firma.Data.deps.json
+E:\programowanie\PIAB\Firma\Firma.Data\bin\Debug\net8.0\Firma.Data.runtimeconfig.json
+E:\programowanie\PIAB\Firma\Firma.Data\bin\Debug\net8.0\Firma.Data.dll
+E:\programowanie\PIAB\Firma\Firma.Data\bin\Debug\net8.0\Firma.Data.pdb
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.dll
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\refint\Firma.Data.dll
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.pdb
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.genruntimeconfig.cache
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\ref\Firma.Data.dll

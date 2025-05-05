@@ -1,4 +1,4 @@
-﻿using Firma.Data.Models.Firma.Data.Models;
+﻿using Firma.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -15,11 +15,11 @@ namespace Firma.Data.Models
         [Key]
         public int Id { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Data rozpoczęcia rezerwacji jest wymagana")]
         [Display(Name = "Data od")]
         public DateTime DataOd { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Data zakończenia rezerwacji jest wymagana")]
         [Display(Name = "Data do")]
         public DateTime DataDo { get; set; }
 
