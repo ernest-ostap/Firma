@@ -1,0 +1,5 @@
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.csproj.AssemblyReference.cache
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.AssemblyInfoInputs.cache
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.AssemblyInfo.cs
+E:\programowanie\PIAB\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.csproj.CoreCompileInputs.cache

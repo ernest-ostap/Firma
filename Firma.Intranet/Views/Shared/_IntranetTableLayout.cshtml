@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="content">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>@ViewData["Title"]</h2>
+        <a href="#" class="btn btn-success">
+            <i class="fas fa-plus"></i>
+            Dodaj nowy
+        </a>
+    </div>
+
+    @RenderSection("Tabela", required: true)
+</div>

@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Kontakt";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <h2>Kontakt z nami</h2>
+            <p>Masz pytania? Chętnie Ci pomożemy! Skontaktuj się z nami za pomocą poniższego formularza lub skorzystaj z innych metod kontaktu.</p>
+
+            <h4>Adres</h4>
+            <p>Firma IT, ul. Losowa 10, 12-345 Losowice</p>
+
+            <h4>Telefon</h4>
+            <p>+48 123 456 789</p>
+
+            <h4>Email</h4>
+            <p>kontakt@firmait.pl</p>
+
+            <h4>Godziny otwarcia</h4>
+            <p>Pon - Pt: 9:00 - 17:00</p>
+        </div>
+
+        <div class="col-12">
+            <h2>Formularz kontaktowy</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Imię i nazwisko</label>
+                    <input type="text" class="form-control" id="name" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label">Adres e-mail</label>
+                    <input type="email" class="form-control" id="email" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="message" class="form-label">Treść wiadomości</label>
+                    <textarea class="form-control" id="message" rows="4" required></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Wyślij wiadomość</button>
+            </form>
+        </div>
+    </div>
+</div>

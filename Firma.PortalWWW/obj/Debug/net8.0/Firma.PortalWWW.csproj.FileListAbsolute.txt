@@ -1,0 +1,102 @@
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.runtime.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.endpoints.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.exe
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.deps.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.runtimeconfig.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.pdb
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfoInputs.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfo.cs
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.csproj.CoreCompileInputs.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cs
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\bundle\Firma.PortalWWW.styles.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\projectbundle\Firma.PortalWWW.bundle.scp.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.build.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\refint\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.pdb
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.genruntimeconfig.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\ref\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.endpoints.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.runtime.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.exe
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.deps.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.runtimeconfig.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.pdb
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfoInputs.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfo.cs
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.csproj.CoreCompileInputs.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cs
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\bundle\Firma.PortalWWW.styles.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\projectbundle\Firma.PortalWWW.bundle.scp.css
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.build.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Firma.PortalWWW.props
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\refint\Firma.PortalWWW.dll
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.pdb
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.genruntimeconfig.cache
+C:\Users\akornatka\Desktop\Zajecia 2025\PIAB\Zajecia\Firma\Firma.PortalWWW\obj\Debug\net8.0\ref\Firma.PortalWWW.dll
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.Development.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\appsettings.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.runtime.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.staticwebassets.endpoints.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.exe
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.deps.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.runtimeconfig.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.dll
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.PortalWWW.pdb
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.GeneratedMSBuildEditorConfig.editorconfig
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfoInputs.cache
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.AssemblyInfo.cs
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.csproj.CoreCompileInputs.cache
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.MvcApplicationPartsAssemblyInfo.cache
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cache
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.RazorAssemblyInfo.cs
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\bundle\Firma.PortalWWW.styles.css
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\scopedcss\projectbundle\Firma.PortalWWW.bundle.scp.css
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.development.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssets.props
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.Firma.PortalWWW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.build.Firma.PortalWWW.props
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Firma.PortalWWW.props
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Firma.PortalWWW.props
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.pack.json
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.dll
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\refint\Firma.PortalWWW.dll
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.pdb
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.genruntimeconfig.cache
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\ref\Firma.PortalWWW.dll

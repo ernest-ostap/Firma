@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Lista produktów";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Filtry i Kategorie -->
+        <div class="col-md-3">
+            <h4>Filtry</h4>
+            <form>
+                <div class="mb-3">
+                    <label for="categoryFilter" class="form-label">Kategoria</label>
+                    <select class="form-select" id="categoryFilter">
+                        <option selected>Wybierz kategorię</option>
+                        <option value="1">Komputery</option>
+                        <option value="2">Podzespoły</option>
+                        <option value="3">Akcesoria</option>
+                        <!--tutaj foreach z kategorii-->
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="priceFilter" class="form-label">Cena maksymalna</label>
+                    <input type="range" class="form-range" id="priceFilter" min="0" max="10000" step="100" value="1000">
+                    <p><small id="priceOutput">Cena: 1000 zł</small></p>
+                </div>
+
+                <div class="mb-3">
+                    <label for="brandFilter" class="form-label">Marka</label>
+                    <select class="form-select" id="brandFilter">
+                        <option selected>Wybierz markę</option>
+                        <option value="1">Intel</option>
+                        <option value="2">AMD</option>
+                        <option value="3">Dell</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Zastosuj filtry</button>
+            </form>
+        </div>
+
+        <!-- Lista produktów -->
+        <div class="col-md-9">
+            <h2 class="text-start mb-4">Produkty</h2>
+            <div class="row">
+                @for (int i = 0; i < 6; i++)
+                {
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+                        <div class="card">
+                            <img src="~/content/CPUjpg.jpg" class="card-img-top" alt="Produkt @(i+1)">
+                            <div class="card-body">
+                                <h5 class="card-title">Procesor @(i + 1)</h5>
+                                <p class="card-text">16 core, 32 TH, 4.4GHz</p>
+                                <a href=" @Url.Action("Szczegoly", "Produkty")" class="btn btn-primary">Zobacz więcej</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Funkcja aktualizująca cenę w zależności od zakresu
+    const priceFilter = document.getElementById('priceFilter');
+    const priceOutput = document.getElementById('priceOutput');
+
+    priceFilter.addEventListener('input', function() {
+        priceOutput.textContent = `Cena: ${priceFilter.value} zł`;
+    });
+</script>
+

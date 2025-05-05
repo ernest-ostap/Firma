@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "~/Views/Shared/_IntranetTableLayout.cshtml";
+    ViewData["Title"] = "Faktury";
+}
+
+@section Tabela {
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Numer</th>
+                <th>Klient</th>
+                <th>Data wystawienia</th>
+                <th>Kwota</th>
+                <th>Status płatności</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FV/2025/04/01</td>
+                <td>Jan Kowalski</td>
+                <td>2025-04-01</td>
+                <td>300,00 zł</td>
+                <td>Opłacona</td>
+            </tr>
+        </tbody>
+    </table>
+}

@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Szczegóły produktu";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/content/case1.jpg" class="img-fluid rounded shadow" alt="Obudowa gamingowa" />
+        </div>
+
+        <div class="col-md-6">
+            <h2>Obudowa Gamingowa RGB</h2>
+            <p class="text-muted">Kod produktu: OB123</p>
+
+            <h4 class="text-success mb-3">Cena: 25 zł / dzień</h4>
+
+            <p><strong>Dostępność:</strong> <span class="text-success">Dostępny</span></p>
+
+            <p>
+                <strong>Opis:</strong><br />
+                Nowoczesna, wentylowana obudowa gamingowa z oświetleniem RGB, wspierająca płyty ATX i micro-ATX.
+                Idealna do tymczasowego użytku podczas targów, wydarzeń, testów sprzętu lub streamingu.
+            </p>
+
+            <button class="btn btn-primary mt-3">Dodaj do koszyka</button>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-8">
+            <h4>Dodaj opinię</h4>
+            <form>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="inputName" class="form-label">Imię</label>
+                        <input type="text" class="form-control" id="inputName" placeholder="Janek">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="inputSurname" class="form-label">Nazwisko</label>
+                        <input type="text" class="form-control" id="inputSurname" placeholder="Kowalski">
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="inputEmail" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="inputEmail" placeholder="jan.kowalski@email.com">
+                </div>
+                <div class="mb-3">
+                    <label for="inputOpinion" class="form-label">Treść opinii</label>
+                    <textarea class="form-control" id="inputOpinion" rows="3" placeholder="Wpisz swoją opinię..."></textarea>
+                </div>
+                <button type="submit" class="btn btn-outline-primary">Wyślij opinię</button>
+            </form>
+        </div>
+    </div>
+
+
+    <div class="row mt-5">
+        <div class="col-12">
+            <h4>Opinie klientów</h4>
+            <div class="border rounded p-3 mb-3">
+                <strong>Adam K.</strong> <span class="text-muted">– 5/5</span>
+                <p>Super sprzęt, działał bez zarzutu przez cały tydzień testów!</p>
+            </div>
+            <div class="border rounded p-3 mb-3">
+                <strong>Magda R.</strong> <span class="text-muted">– 4/5</span>
+                <p>Bardzo dobry stan, szybka wysyłka. Trochę głośne wentylatory, ale ogólnie polecam.</p>
+            </div>
+            <p class="text-muted">Chcesz dodać opinię? <a href="#">Zaloguj się</a>.</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "~/Views/Shared/_IntranetZarzadzanieTresciaLayout.cshtml";
+}
+
+@section HomeContent {
+    <form method="post">
+        <div class="mb-3">
+            <label for="homeText" class="form-label">Treść strony głównej</label>
+            <textarea class="form-control" id="homeText" rows="5" name="homeText">Tutaj znajduje się aktualna treść strony głównej...</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary"><i class="fas fa-save me-2"></i>Zapisz</button>
+    </form>
+}
+
+@section ContactContent {
+    <form method="post">
+        <div class="mb-3">
+            <label for="contactText" class="form-label">Informacje kontaktowe</label>
+            <textarea class="form-control" id="contactText" rows="5" name="contactText">Adres, telefon, e-mail...</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary"><i class="fas fa-save me-2"></i>Zapisz</button>
+    </form>
+}
+
+@section AboutContent {
+    <form method="post">
+        <div class="mb-3">
+            <label for="aboutText" class="form-label">Opis firmy</label>
+            <textarea class="form-control" id="aboutText" rows="5" name="aboutText">Jesteśmy firmą wynajmującą sprzęt internetowy...</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary"><i class="fas fa-save me-2"></i>Zapisz</button>
+    </form>
+}
