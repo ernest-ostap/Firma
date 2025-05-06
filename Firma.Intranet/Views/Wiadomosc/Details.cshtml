@@ -1,0 +1,54 @@
+﻿@model Firma.Data.Models.Wiadomosc
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Wiadomosc</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tresc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tresc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Temat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Temat)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataWiadomosci)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataWiadomosci)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DotyczyRezerwacji)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DotyczyRezerwacji)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmailNadawcy)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmailNadawcy)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImieNazwiskoNadawcy)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ImieNazwiskoNadawcy)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

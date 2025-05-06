@@ -1,0 +1,42 @@
+﻿@model Firma.Data.Models.Faktura
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Faktura</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataWystawienia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataWystawienia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Kwota)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Kwota)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Klient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Klient.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Uwagi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Uwagi)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

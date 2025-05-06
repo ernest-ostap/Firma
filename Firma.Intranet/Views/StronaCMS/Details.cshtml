@@ -1,0 +1,30 @@
+﻿@model Firma.Data.Models.StronaCMS
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>StronaCMS</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Klucz)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Klucz)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tresc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tresc)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
