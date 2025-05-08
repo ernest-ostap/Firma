@@ -100,3 +100,4 @@ E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\refint\Firma.Portal
 E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.pdb
 E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.genruntimeconfig.cache
 E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\ref\Firma.PortalWWW.dll
+E:\programowanie\PIAB\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.sourcelink.json

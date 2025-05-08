@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zdGF3YVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Dostawa/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zdGF3YVxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Dostawa/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9zdGF3YVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,10 +50,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Fakturas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFrdHVyYXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Fakturas/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFrdHVyYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Fakturas/Edit.cshtml]
@@ -80,10 +72,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Kategoria/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Kategoria/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -98,10 +86,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Klient/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Klient/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Klient/Edit.cshtml]
@@ -120,10 +104,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Pracownik/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Pracownik/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -138,10 +118,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Produkt/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Produkt/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVrdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Produkt/Edit.cshtml]
@@ -160,10 +136,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Recenzja/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Recenzja/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZW56amFcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -178,10 +150,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Rezerwacja/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqYVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Rezerwacja/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ3YWNqYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Rezerwacja/Edit.cshtml]
@@ -228,10 +196,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hQ01TXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/StronaCMS/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hQ01TXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/StronaCMS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Ryb25hQ01TXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -248,10 +212,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN0YXdpZW5pYVBvcnRhbHVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/UstawieniaPortalu/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN0YXdpZW5pYVBvcnRhbHVcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/UstawieniaPortalu/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN0YXdpZW5pYVBvcnRhbHVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -266,10 +226,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Wiadomosc/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lhZG9tb3NjXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Wiadomosc/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lhZG9tb3NjXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/programowanie/PIAB/Firma/Firma.Intranet/Views/Wiadomosc/Edit.cshtml]

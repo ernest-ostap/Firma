@@ -23,11 +23,13 @@
             background-color: #343a40;
             color: white;
             flex-shrink: 0;
+            align-items:center;
         }
 
         .sidebar a {
             color: white;
             padding: 12px 16px;
+            margin-top: 5px;
             display: block;
             text-decoration: none;
         }
@@ -63,7 +65,18 @@
 
     <div class="sidebar">
         <h4 class="text-center py-3">Intranet</h4>
-        <a class="nav-link" href="@Url.Action("Index", "Home")"><i class="fas fa-home me-2"></i>Strona główna</a>
+        <a href="@Url.Action("Index", "Home")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-home"></i> Strona główna</a>
+        <a href="@Url.Action("Index", "Dostawa")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-truck"></i> Dostawy</a>
+        <a href="@Url.Action("Index", "Fakturas")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-file-invoice"></i> Faktury</a>
+        <a href="@Url.Action("Index", "Klient")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-user"></i> lienci</a>
+        <a href="@Url.Action("Index", "Pracownik")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-users"></i> Pracownicy</a>
+        <a href="@Url.Action("Index", "Produkt")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-box-open"></i> Produkty</a>
+        <a href="@Url.Action("Index", "Recenzja")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-star"></i> Recenzje</a>
+        <a href="@Url.Action("Index", "Rezerwacja")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-calendar-check"></i> Rezerwacje</a>
+        <a href="@Url.Action("Index", "StronaCMS")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-file-alt"></i> Zarządzanie treścią</a>
+        <a href="@Url.Action("Index", "Kategoria")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-tags"></i> Kategorie</a>
+        <a href="@Url.Action("Index", "UstawieniaPortalu")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-cog"></i> Ustawienia portalu</a>
+        <a href="@Url.Action("Index", "Wiadomosci")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-envelope"></i> Wiadomości</a>
         
     </div>
 
@@ -75,13 +88,14 @@
             </div>
             <div>
                 <span id="clock" class="me-4"></span>
-                <a href="@Url.Action("Wiadomosci", "Home")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-envelope"></i></a>
+                <a href="@Url.Action("Index", "Wiadomosc")" class="btn btn-outline-secondary btn-sm me-2"><i class="fas fa-envelope"></i></a>
                 <a href="/Logout" class="btn btn-outline-danger btn-sm">Wyloguj</a>
             </div>
         </div>
 
         <div class="content-area">
             @RenderBody()
+            @RenderSection("Scripts", required: false)
         </div>
     </div>
 
