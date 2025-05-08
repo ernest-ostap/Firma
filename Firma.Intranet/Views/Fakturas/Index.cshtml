@@ -1,53 +1,56 @@
 ﻿@model IEnumerable<Firma.Data.Models.Faktura>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Faktury";
+    Layout = "~/Views/Shared/_IntranetTableLayout.cshtml";
 }
+@section Tabela{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Data wystawienia
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Kwota)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Klient)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Uwagi)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataWystawienia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kwota)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Klient.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Uwagi)
+                </td>
+                    <td>
+                        <div>
+                            <a asp-action="Edit" asp-route-id="@item.Id" style="margin-right: 5px; text-decoration: none;">
+                                <button type="button" class="btn btn-primary">Edytuj</button>
+                            </a>
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.DataWystawienia)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Kwota)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Klient)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Uwagi)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataWystawienia)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Kwota)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Klient.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Uwagi)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
+                            <a asp-action="Delete" asp-route-id="@item.Id">
+                                <button type="button" class="btn btn-danger">Usuń</button>
+                            </a>
+                        </div>
+                    </td>
+            </tr>
+    }
+        </tbody>
+    </table>
 }
-    </tbody>
-</table>
