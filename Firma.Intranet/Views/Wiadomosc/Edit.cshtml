@@ -1,12 +1,12 @@
 ﻿@model Firma.Data.Models.Wiadomosc
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Edycja";
 }
 
-<h1>Edit</h1>
+<h1>Edycja</h1>
 
-<h4>Wiadomosc</h4>
+<h4>Wiadomość</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -43,15 +43,17 @@
                 <input asp-for="ImieNazwiskoNadawcy" class="form-control" />
                 <span asp-validation-for="ImieNazwiskoNadawcy" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+            <div class="form-group" style="margin-top: 5px;">
+                <input type="submit" value="Zapisz" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div style="margin-top: 5px;">
+    <a asp-action="Index">
+        <button type="button" class="btn btn-danger">Anuluj</button>
+    </a>
 </div>
 
 @section Scripts {

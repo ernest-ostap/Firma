@@ -1,10 +1,10 @@
 ﻿@model Firma.Data.Models.Recenzja
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Dodaj";
 }
 
-<h1>Create</h1>
+<h1>Dodawanie</h1>
 
 <h4>Recenzja</h4>
 <hr />
@@ -30,15 +30,17 @@
                 <label asp-for="KlientId" class="control-label"></label>
                 <select asp-for="KlientId" class ="form-control" asp-items="ViewBag.KlientId"></select>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group" style="margin-top: 5px;">
+                <input type="submit" value="Dodaj" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div style="margin-top: 5px;">
+    <a asp-action="Index">
+        <button type="button" class="btn btn-danger">Anuluj</button>
+    </a>
 </div>
 
 @section Scripts {

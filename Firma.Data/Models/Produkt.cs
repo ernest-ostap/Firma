@@ -18,7 +18,6 @@ namespace Firma.Data.Models
         public required string Nazwa { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Opis jest wymagany")]
-        [MaxLength(30, ErrorMessage = "Nazwa może mieć maksymalnie 30 znaków")]
         public required string Opis { get; set; } = string.Empty;
 
         [ForeignKey("Kategoria")]
