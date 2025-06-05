@@ -24,22 +24,21 @@
                 <span asp-validation-for="Opis" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="KategoriaId" class="control-label"></label>
+                <label asp-for="KategoriaId" class="control-label">Kategoria</label>
                 <select asp-for="KategoriaId" class="form-control" asp-items="ViewBag.KategoriaId"></select>
-                <span asp-validation-for="KategoriaId" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="CenaWypozyczenia" class="control-label"></label>
+                <label asp-for="CenaWypozyczenia" class="control-label">Cena wypożyczenia</label>
                 <input asp-for="CenaWypozyczenia" class="form-control" />
                 <span asp-validation-for="CenaWypozyczenia" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ZdjecieUrl" class="control-label"></label>
+                <label asp-for="ZdjecieUrl" class="control-label">Zdjęcie</label>
                 <input asp-for="ZdjecieUrl" class="form-control" />
                 <span asp-validation-for="ZdjecieUrl" class="text-danger"></span>
             </div>
             <div class="form-group" style="margin-top: 5px;">
-                <input type="submit" value="Zapisz" class="btn btn-primary" />
+                <input type="submit" value="Dodaj" class="btn btn-primary" />
             </div>
         </form>
     </div>

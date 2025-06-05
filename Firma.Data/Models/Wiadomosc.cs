@@ -14,7 +14,7 @@ namespace Firma.Data.Models
 
         [Required(ErrorMessage = "Treść wiadomości jest wymagana")]
         [MaxLength(1000)]
-        public required string Tresc { get; set; }
+        public required string Tresc { get; set; } = string.Empty;
 
         [MaxLength(100)]
         public string? Temat { get; set; }

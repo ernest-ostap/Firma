@@ -1,0 +1,72 @@
+﻿@model Firma.Data.Models.Wiadomosc
+
+@{
+    ViewData["Title"] = "Kontakt";
+    var ustawienia = ViewBag.Ustawienia as Firma.Data.Models.UstawieniaPortalu;
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <h2>Kontakt z nami</h2>
+            <p>Masz pytania? Skontaktuj się z nami!</p>
+
+            <h4>Adres firmy</h4>
+            <p>@(ustawienia?.DaneFirmy ?? "Brak danych")</p>
+
+            <h4>Dane kontaktowe</h4>
+            <p>@(ustawienia?.Kontakt ?? "Brak danych")</p>
+
+            <h4>Godziny otwarcia</h4>
+            <p>@(ustawienia?.GodzinyPracy ?? "Brak danych")</p>
+        </div>
+
+        <div class="col-12 mt-4">
+            <h2>Formularz kontaktowy</h2>
+
+            @if (ViewBag.Sukces != null)
+            {
+                <div class="alert alert-success">@ViewBag.Sukces</div>
+            }
+
+            <form asp-action="Index" method="post">
+                <div class="mb-3">
+                    <label asp-for="ImieNazwiskoNadawcy" class="form-label">Imię i nazwisko</label>
+                    <input asp-for="ImieNazwiskoNadawcy" class="form-control" />
+                    <span asp-validation-for="ImieNazwiskoNadawcy" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="EmailNadawcy" class="form-label">Adres e-mail</label>
+                    <input asp-for="EmailNadawcy" class="form-control" />
+                    <span asp-validation-for="EmailNadawcy" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Temat" class="form-label">Temat wiadomości</label>
+                    <input asp-for="Temat" class="form-control" />
+                    <span asp-validation-for="Temat" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Tresc" class="form-label">Treść wiadomości</label>
+                    <textarea asp-for="Tresc" class="form-control" rows="5"></textarea>
+                    <span asp-validation-for="Tresc" class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input asp-for="DotyczyRezerwacji" class="form-check-input" />
+                    <label asp-for="DotyczyRezerwacji" class="form-check-label">Czy ta wiadomość dotyczy rezerwacji?</label>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Wyślij wiadomość</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

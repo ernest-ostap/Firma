@@ -12,17 +12,18 @@
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
                 <div class="carousel-inner">
-                    
-                    @for (int i = 0; i < 3; i++)
+                    @for (int i = 0; i < ((List<string>)ViewBag.Banery).Count; i++)
                     {
-                        <div class="carousel-item active">
-                            <img src="~/content/case1.jpg" class="d-block w-100" alt="...">
+                        var baner = ((List<string>)ViewBag.Banery)[i];
+                        <div class="carousel-item @(i == 0 ? "active" : "")">
+                            <img src="@baner" class="d-block w-100" alt="Baner @(i+1)">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Super obudowa @(i+1) </h5>
+                                <h5>Sprawdź teraz!</h5>
                             </div>
                         </div>
                     }
                 </div>
+
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
@@ -35,15 +36,15 @@
         </div>
         <div class="row mt-3 ">
             <h2 class="text-start">Bestsellery</h2>
-            @for (int i = 0; i < 4; i++)
+            @foreach (var produkt in (List<Firma.Data.Models.Produkt>)ViewBag.Bestsellery)
             {
                 <div class="col-12 col-md-6 col-lg-3 mb-1">
                     <div class="card" style="width: 18rem;">
-                    <img src="~/content/CPUjpg.jpg" class="card-img-top" alt="...">
+                        <img src="@produkt.ZdjecieUrl" class="card-img-top" alt="@produkt.Nazwa">
                         <div class="card-body">
-                            <h5 class="card-title">Super procesor @(i+1) </h5>
-                            <p class="card-text">16 core, 32 TH, 4.4GHz</p>
-                            <a href="#" class="btn btn-secondary">Go somewhere</a>
+                            <h5 class="card-title">@produkt.Nazwa</h5>
+                            <p class="card-text">@(produkt.Opis.Length > 50 ? produkt.Opis.Substring(0, 40) + "..." : produkt.Opis)</p>
+                            <a href="@Url.Action("Szczegoly", "Produkt", new { id = produkt.Id })" class="btn btn-secondary">Zobacz</a>
                         </div>
                     </div>
                 </div>

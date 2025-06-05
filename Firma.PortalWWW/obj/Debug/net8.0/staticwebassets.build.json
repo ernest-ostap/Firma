@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DAm+dm3iYc3rhCEhbgt5pe2c78HFA0BfURNYF//0S5E=",
+  "Hash": "WXkfBDivcMHwM2xna2e0PRwe8frx5SD6eFqMc+p0x64=",
   "Source": "Firma.PortalWWW",
   "BasePath": "_content/Firma.PortalWWW",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Firma.PortalWWW.bundle.scp.css"
     },
     {
-      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\case1.jpg",
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case1.jpg",
       "SourceId": "Firma.PortalWWW",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
       "BasePath": "_content/Firma.PortalWWW",
-      "RelativePath": "content/case1#[.{fingerprint}]?.jpg",
+      "RelativePath": "content/other/case1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,19 +73,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mtnkvqio1k",
-      "Integrity": "mvxzRbUY6gIIXwh/qiM+mqVDzdARQfKcO0VFzmrsxl0=",
+      "Fingerprint": "7chvbkzcyr",
+      "Integrity": "h1S9VeuLre9ajjVsrfU8JQMVZrcH/BObNBV/x0roul8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\content\\case1.jpg"
+      "OriginalItemSpec": "wwwroot\\content\\other\\case1.jpg"
     },
     {
-      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\CPUjpg.jpg",
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case2.jpg",
       "SourceId": "Firma.PortalWWW",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
       "BasePath": "_content/Firma.PortalWWW",
-      "RelativePath": "content/CPUjpg#[.{fingerprint}]?.jpg",
+      "RelativePath": "content/other/case2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +94,116 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4jm815x96q",
-      "Integrity": "EEn087Ll3KAYJxkisYDbouRtizbmO1HqJ1bXVjz3RoM=",
+      "Fingerprint": "7do2xy9ur2",
+      "Integrity": "JX8gC1HaFnTcT/9/YfbgPU/3Os2EEsDwMWiG0YUzcuo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\content\\CPUjpg.jpg"
+      "OriginalItemSpec": "wwwroot\\content\\other\\case2.jpg"
+    },
+    {
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case3.jpg",
+      "SourceId": "Firma.PortalWWW",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
+      "BasePath": "_content/Firma.PortalWWW",
+      "RelativePath": "content/other/case3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v5hgq1sryh",
+      "Integrity": "HcfyQeOWhGD5CBotBTZuNvP+J0D6M6gcWKUz3hXduac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\other\\case3.jpg"
+    },
+    {
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case4.jpg",
+      "SourceId": "Firma.PortalWWW",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
+      "BasePath": "_content/Firma.PortalWWW",
+      "RelativePath": "content/other/case4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zaqnhnw25y",
+      "Integrity": "69HUEuUxAX5j0vs0ysMscNhO2NymS16XeGp8RoEK5OI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\other\\case4.jpg"
+    },
+    {
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\laptopAsus.jpg",
+      "SourceId": "Firma.PortalWWW",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
+      "BasePath": "_content/Firma.PortalWWW",
+      "RelativePath": "content/produkt/laptopAsus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8dd0vi0624",
+      "Integrity": "rMqRVQYgCaIR/QOmOQWWvgSQYs3kSI8uMIOI4Cnkr0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\produkt\\laptopAsus.jpg"
+    },
+    {
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\placeholder.png",
+      "SourceId": "Firma.PortalWWW",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
+      "BasePath": "_content/Firma.PortalWWW",
+      "RelativePath": "content/produkt/placeholder#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vfz38y7x4h",
+      "Integrity": "1anunv1kaJqiaZ98OWsE3gmr0elrke9NUOPRFgCIMq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\produkt\\placeholder.png"
+    },
+    {
+      "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\ps5.png",
+      "SourceId": "Firma.PortalWWW",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\",
+      "BasePath": "_content/Firma.PortalWWW",
+      "RelativePath": "content/produkt/ps5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fatm2cqatx",
+      "Integrity": "ObBVf32fNTa/wWzT9CF7Cl7zKiHCKlVppN3wWO58MZw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\produkt\\ps5.png"
     },
     {
       "Identity": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\css\\site.css",
@@ -1363,8 +1468,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "content/case1.jpg",
-      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\case1.jpg",
+      "Route": "content/other/case1.7chvbkzcyr.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1373,7 +1478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7010"
+          "Value": "142777"
         },
         {
           "Name": "Content-Type",
@@ -1381,48 +1486,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mvxzRbUY6gIIXwh/qiM+mqVDzdARQfKcO0VFzmrsxl0=\""
+          "Value": "\"h1S9VeuLre9ajjVsrfU8JQMVZrcH/BObNBV/x0roul8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:46:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mvxzRbUY6gIIXwh/qiM+mqVDzdARQfKcO0VFzmrsxl0="
-        }
-      ]
-    },
-    {
-      "Route": "content/case1.mtnkvqio1k.jpg",
-      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\case1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7010"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mvxzRbUY6gIIXwh/qiM+mqVDzdARQfKcO0VFzmrsxl0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:46:35 GMT"
+          "Value": "Wed, 04 Jun 2025 13:52:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,21 +1500,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mtnkvqio1k"
+          "Value": "7chvbkzcyr"
         },
         {
           "Name": "label",
-          "Value": "content/case1.jpg"
+          "Value": "content/other/case1.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mvxzRbUY6gIIXwh/qiM+mqVDzdARQfKcO0VFzmrsxl0="
+          "Value": "sha256-h1S9VeuLre9ajjVsrfU8JQMVZrcH/BObNBV/x0roul8="
         }
       ]
     },
     {
-      "Route": "content/CPUjpg.4jm815x96q.jpg",
-      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\CPUjpg.jpg",
+      "Route": "content/other/case1.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1455,7 +1523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6984"
+          "Value": "142777"
         },
         {
           "Name": "Content-Type",
@@ -1463,56 +1531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EEn087Ll3KAYJxkisYDbouRtizbmO1HqJ1bXVjz3RoM=\""
+          "Value": "\"h1S9VeuLre9ajjVsrfU8JQMVZrcH/BObNBV/x0roul8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:52:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4jm815x96q"
-        },
-        {
-          "Name": "label",
-          "Value": "content/CPUjpg.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EEn087Ll3KAYJxkisYDbouRtizbmO1HqJ1bXVjz3RoM="
-        }
-      ]
-    },
-    {
-      "Route": "content/CPUjpg.jpg",
-      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\CPUjpg.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6984"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EEn087Ll3KAYJxkisYDbouRtizbmO1HqJ1bXVjz3RoM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 06 Apr 2025 18:52:44 GMT"
+          "Value": "Wed, 04 Jun 2025 13:52:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1522,7 +1545,499 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EEn087Ll3KAYJxkisYDbouRtizbmO1HqJ1bXVjz3RoM="
+          "Value": "sha256-h1S9VeuLre9ajjVsrfU8JQMVZrcH/BObNBV/x0roul8="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case2.7do2xy9ur2.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JX8gC1HaFnTcT/9/YfbgPU/3Os2EEsDwMWiG0YUzcuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7do2xy9ur2"
+        },
+        {
+          "Name": "label",
+          "Value": "content/other/case2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JX8gC1HaFnTcT/9/YfbgPU/3Os2EEsDwMWiG0YUzcuo="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case2.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JX8gC1HaFnTcT/9/YfbgPU/3Os2EEsDwMWiG0YUzcuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JX8gC1HaFnTcT/9/YfbgPU/3Os2EEsDwMWiG0YUzcuo="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case3.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HcfyQeOWhGD5CBotBTZuNvP+J0D6M6gcWKUz3hXduac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:57:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HcfyQeOWhGD5CBotBTZuNvP+J0D6M6gcWKUz3hXduac="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case3.v5hgq1sryh.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HcfyQeOWhGD5CBotBTZuNvP+J0D6M6gcWKUz3hXduac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:57:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5hgq1sryh"
+        },
+        {
+          "Name": "label",
+          "Value": "content/other/case3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HcfyQeOWhGD5CBotBTZuNvP+J0D6M6gcWKUz3hXduac="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case4.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69HUEuUxAX5j0vs0ysMscNhO2NymS16XeGp8RoEK5OI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:52:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-69HUEuUxAX5j0vs0ysMscNhO2NymS16XeGp8RoEK5OI="
+        }
+      ]
+    },
+    {
+      "Route": "content/other/case4.zaqnhnw25y.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"69HUEuUxAX5j0vs0ysMscNhO2NymS16XeGp8RoEK5OI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:52:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zaqnhnw25y"
+        },
+        {
+          "Name": "label",
+          "Value": "content/other/case4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-69HUEuUxAX5j0vs0ysMscNhO2NymS16XeGp8RoEK5OI="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/laptopAsus.8dd0vi0624.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\laptopAsus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMqRVQYgCaIR/QOmOQWWvgSQYs3kSI8uMIOI4Cnkr0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dd0vi0624"
+        },
+        {
+          "Name": "label",
+          "Value": "content/produkt/laptopAsus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMqRVQYgCaIR/QOmOQWWvgSQYs3kSI8uMIOI4Cnkr0Y="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/laptopAsus.jpg",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\laptopAsus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rMqRVQYgCaIR/QOmOQWWvgSQYs3kSI8uMIOI4Cnkr0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rMqRVQYgCaIR/QOmOQWWvgSQYs3kSI8uMIOI4Cnkr0Y="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/placeholder.png",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1anunv1kaJqiaZ98OWsE3gmr0elrke9NUOPRFgCIMq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 20:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1anunv1kaJqiaZ98OWsE3gmr0elrke9NUOPRFgCIMq0="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/placeholder.vfz38y7x4h.png",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1anunv1kaJqiaZ98OWsE3gmr0elrke9NUOPRFgCIMq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 20:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vfz38y7x4h"
+        },
+        {
+          "Name": "label",
+          "Value": "content/produkt/placeholder.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1anunv1kaJqiaZ98OWsE3gmr0elrke9NUOPRFgCIMq0="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/ps5.fatm2cqatx.png",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\ps5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ObBVf32fNTa/wWzT9CF7Cl7zKiHCKlVppN3wWO58MZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:58:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fatm2cqatx"
+        },
+        {
+          "Name": "label",
+          "Value": "content/produkt/ps5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ObBVf32fNTa/wWzT9CF7Cl7zKiHCKlVppN3wWO58MZw="
+        }
+      ]
+    },
+    {
+      "Route": "content/produkt/ps5.png",
+      "AssetFile": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\ps5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ObBVf32fNTa/wWzT9CF7Cl7zKiHCKlVppN3wWO58MZw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 19:58:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ObBVf32fNTa/wWzT9CF7Cl7zKiHCKlVppN3wWO58MZw="
         }
       ]
     },

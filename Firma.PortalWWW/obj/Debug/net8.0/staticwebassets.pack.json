@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\Firma.PortalWWW.19swfgchtl.bundle.scp.css"
     },
     {
-      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\CPUjpg.jpg",
-      "PackagePath": "staticwebassets\\content\\CPUjpg.jpg"
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case1.jpg",
+      "PackagePath": "staticwebassets\\content\\other\\case1.jpg"
     },
     {
-      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\case1.jpg",
-      "PackagePath": "staticwebassets\\content\\case1.jpg"
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case2.jpg",
+      "PackagePath": "staticwebassets\\content\\other\\case2.jpg"
+    },
+    {
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case3.jpg",
+      "PackagePath": "staticwebassets\\content\\other\\case3.jpg"
+    },
+    {
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\other\\case4.jpg",
+      "PackagePath": "staticwebassets\\content\\other\\case4.jpg"
+    },
+    {
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\laptopAsus.jpg",
+      "PackagePath": "staticwebassets\\content\\produkt\\laptopAsus.jpg"
+    },
+    {
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\placeholder.png",
+      "PackagePath": "staticwebassets\\content\\produkt\\placeholder.png"
+    },
+    {
+      "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\content\\produkt\\ps5.png",
+      "PackagePath": "staticwebassets\\content\\produkt\\ps5.png"
     },
     {
       "Id": "E:\\programowanie\\PIAB\\Firma\\Firma.PortalWWW\\wwwroot\\css\\site.css",

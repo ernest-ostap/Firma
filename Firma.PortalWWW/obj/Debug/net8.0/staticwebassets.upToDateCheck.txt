@@ -1,5 +1,10 @@
-wwwroot\content\case1.jpg
-wwwroot\content\CPUjpg.jpg
+wwwroot\content\other\case1.jpg
+wwwroot\content\other\case2.jpg
+wwwroot\content\other\case3.jpg
+wwwroot\content\other\case4.jpg
+wwwroot\content\produkt\laptopAsus.jpg
+wwwroot\content\produkt\placeholder.png
+wwwroot\content\produkt\ps5.png
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

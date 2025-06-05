@@ -28,15 +28,20 @@
                 <input asp-for="Status" class="form-control" />
                 <span asp-validation-for="Status" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="KlientId" class="control-label"></label>
-                <select asp-for="KlientId" class="form-control" asp-items="ViewBag.KlientId"></select>
-                <span asp-validation-for="KlientId" class="text-danger"></span>
+            <div class="input-group mb-3 mt-3">
+                <input type="text" id="searchInput" class="form-control" placeholder="Szukaj klienta...">
             </div>
-            <div class="form-group">
-                <label asp-for="ProduktId" class="control-label"></label>
-                <select asp-for="ProduktId" class="form-control" asp-items="ViewBag.ProduktId"></select>
-                <span asp-validation-for="ProduktId" class="text-danger"></span>
+            <div class="input-group mb-3">
+                <label class="input-group-text" asp-for="KlientId">Klient</label>
+                <select asp-for="KlientId" class="form-select" asp-items="ViewBag.KlientId" id="dropdown">
+                    <option selected>Wybierz...</option>
+                </select>
+            </div>
+            <div class="input-group mb-3">
+                <label class="input-group-text" asp-for="ProduktId">Produk</label>
+                <select asp-for="ProduktId" class="form-select" asp-items="ViewBag.ProduktId" id="dropdown">
+                    <option selected>Wybierz...</option>
+                </select>
             </div>
             <div class="form-group" style="margin-top: 5px;">
                 <input type="submit" value="Zapisz" class="btn btn-primary" />
@@ -53,4 +58,16 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        document.getElementById("searchInput").addEventListener("keyup", function() {
+            let filter = this.value.toLowerCase();
+            let dropdown = document.getElementById("dropdown");
+            let options = dropdown.getElementsByTagName("option");
+
+            for (let i = 1; i < options.length; i++) {
+                let txtValue = options[i].textContent || options[i].innerText;
+                options[i].style.display = txtValue.toLowerCase().includes(filter) ? "" : "none";
+            }
+        });
+    </script>
 }

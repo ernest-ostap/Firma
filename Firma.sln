@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firma.PortalWWW", "Firma.PortalWWW\Firma.PortalWWW.csproj", "{1CCE10C4-B22B-4539-86A4-3453B2447DD1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{358C41D6-935F-4E46-A6EF-9737B6230AC5} = {358C41D6-935F-4E46-A6EF-9737B6230AC5}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firma.Intranet", "Firma.Intranet\Firma.Intranet.csproj", "{2160A5CE-F243-4BD8-8DDD-4CD77FF7CFAA}"
 EndProject
