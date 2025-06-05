@@ -44,7 +44,7 @@
                         <div class="card-body">
                             <h5 class="card-title">@produkt.Nazwa</h5>
                             <p class="card-text">@(produkt.Opis.Length > 50 ? produkt.Opis.Substring(0, 40) + "..." : produkt.Opis)</p>
-                            <a href="@Url.Action("Szczegoly", "Produkt", new { id = produkt.Id })" class="btn btn-secondary">Zobacz</a>
+                            <a href="@Url.Action("Szczegoly", "Produkty", new { id = produkt.Id })" class="btn btn-secondary">Zobacz</a>
                         </div>
                     </div>
                 </div>
