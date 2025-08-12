@@ -43,9 +43,10 @@ Firma
 ### Intranet (dla pracowników)
 - CRUD dla:
   - Produktów
+  - Kategorii
   - Rezerwacji
   - Pracowników
-  - Kategorii
+  - Dostaw
   - Recenzji
   - Stron CMS
   - Dostaw/Odbiorów
@@ -63,7 +64,7 @@ Firma
 3. Ustaw projekt startowy na Firma.PortalWWW lub Firma.Intranet.
 4. Skonfiguruj połączenie do bazy danych w plikach appsettings.json.
 5. Wygeneruj bazę danych:
-6. ```bash
+   ```bash
    dotnet ef database update --project Firma.Data
 7. Uruchom aplikację (F5).
 
